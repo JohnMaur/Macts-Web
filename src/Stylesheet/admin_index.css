@@ -1,0 +1,17 @@
+.container {
+
+  flex: 1;
+  height: 100vh;
+  width: 100vw;
+}
+
+.blackText {
+  color: black; /* Set text color to black */
+}
+
+/* Add hover effect to menu items */
+.itemSidebar:hover {
+  background-color: #1890ff;
+}
+
+
